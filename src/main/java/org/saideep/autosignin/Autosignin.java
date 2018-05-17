@@ -45,7 +45,7 @@ public class Autosignin {
 	                }
 
 	public static void main(String[] args) throws InterruptedException, IOException  {
-		 String FILENAME = "C:\\\\eclipse-workspace\\\\autosignin\\\\src\\\\test\\\\config.txt";        // path to the config file
+		 String FILENAME = "config.txt";        // path to the config file
 		BufferedReader br = null;
 		FileReader fr = null;
 		String sCurrentLine;
