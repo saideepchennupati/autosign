@@ -1,4 +1,4 @@
-package test;
+package org.saideep.autosignin;
 
 
 import org.openqa.selenium.By;
